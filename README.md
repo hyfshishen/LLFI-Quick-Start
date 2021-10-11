@@ -19,3 +19,5 @@ profile ./llfi/pathfinder-profiling.exe 1000 10
 ```
 injectfault ./llfi/pathfinder-faultinjection.exe 1000 10
 ```
+
+Make sure profile phase is running a same program input with fault injection phase.
