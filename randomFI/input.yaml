@@ -16,5 +16,5 @@ compileOption:
 
 runOption:
     - run:
-        numOfRuns: 20
+        numOfRuns: 100
         fi_type: bitflip

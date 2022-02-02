@@ -6,7 +6,7 @@ compileOption:
           include:
             - llfiindex
           options:
-            - -injecttoindex=200
+            - -injecttoindex=77
 
     regSelMethod: regloc
     regloc: dstreg
